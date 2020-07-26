@@ -9,6 +9,7 @@ There are many kinds of plots. I'm going to try out code for some of them.
 * Pie chart
 * Bar chart
 * Pair plot
+* Heat map
 
 Links:
 For Histogram and Density plot -
