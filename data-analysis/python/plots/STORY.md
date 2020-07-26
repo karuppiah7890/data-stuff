@@ -8,6 +8,7 @@ There are many kinds of plots. I'm going to try out code for some of them.
 * Density plot
 * Pie chart
 * Bar chart
+* Pair plot
 
 Links:
 For Histogram and Density plot -
